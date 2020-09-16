@@ -1,0 +1,10 @@
+@charset　"UTF-8";
+
+h1{
+  font-size : 50px; 
+  border-left : 50px solid #f00;
+  padding: 1rem 2rem;
+}
+h2{
+    font-size : 15px;
+}
