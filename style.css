@@ -2,4 +2,5 @@ h1{
   font-syze : 50px;
   background-color : var; 
   border-left : 50px solid #f00;
+  padding: 1rem 2rem;
 }
